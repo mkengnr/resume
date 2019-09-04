@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/Kyu5787/RESUME/raw/master/images/profile/resume_profile.jpg)
+<img src='./images/profile/resume_profile2.jpg' width='600' />
 - 이름: 곽성규
 - 지역: 서울
 - 이메일: gsk5787@gmail.com
