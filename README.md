@@ -27,6 +27,7 @@
 
 ### Back-End
 클라이언트에 필요한 RESTful API 를 직접 테스트/구현 할 수 있는 백엔드 스킬을 가지고 있습니다. <br />
+필요에 따라 Server Render 를 통해 웹 개발을 할 수 있습니다.
 - Java
 - Spring / Spring Boot2
 - MyBatis / JPA / JPQL / QueryDSL
