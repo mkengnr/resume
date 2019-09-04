@@ -20,20 +20,22 @@
 - Java
 - MVP Pattern
 - SQLite
+- Retrofit2 / OkHttp3 / Gson
+- Glide / Picasso
+- FCM
 - Fabric
-- Etc: Retrofit2, OkHttp3, Glide, Picasso, FCM...
 
 ### Back-End
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있는 서버스킬을 가지고 있습니다. <br />
-필요에 따라 직접 Restful API 를 테스트/구현 할 수 있습니다.
+클라이언트에 필요한 RESTful API 를 직접 테스트/구현 할 수 있는 백엔드 스킬을 가지고 있습니다. <br />
 - Java
 - Spring / Spring Boot2
 - MyBatis / JPA / JPQL / QueryDSL
 - Maven / Gradle
 - Tomcat
 - JSP / Thymeleaf
-- Nginx
+- AWS
 - Linux (Ubuntu)
+- Nginx
 - Travis CI
 
 ### Database
