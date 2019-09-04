@@ -83,7 +83,7 @@
 Java Framework 전문가 양성과정 (2017.01 ~ 06)
 - Java 기초부터 고급 기술까지 이론에 대한 철저한 이해와 어플리케이션 구현 능력 배양
 - Spring Framework 과 Design Pattern 대한 이해 및 응용능력 배양
-- 스터디 그룹별 다양한 프로젝트 진행하여 현업 실무 적응력 향상
+- 스터디 그룹별 다양한 프로젝트를 진행하여 현업 실무 적응력 향상
 - 다양한 방식의 이론, 설계, 구현에 대한 풍부한 토론 및 발표수업을 통해 실무능력 배양
 - 최근 IT기업에서 강조하는 커뮤니케이션 능력, 제안서 등 글쓰기 능력, 프리젠테이션 능력을 향상
 
@@ -95,7 +95,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 ## 프로젝트 이력
 ### [유니블루](https://uniblue.kr)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/uniblue_ic.jpg' width='100'/><br />
-- 소개: 여행사 B2B 플랫폼 웹 서비스
+- 소개: 여행사와 랜드사를 간편하게 연결해주는 B2B 플랫폼 웹 서비스
 - 기간: 2019.01 ~ 2019.06
 - 사용기술: Java, SpringBoot, JPA, MySQL, Thymeleaf, AWS...Etc
 
@@ -113,13 +113,13 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 
 ### [굿헬스케어](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/eap_ic.png' width='100'/><br />
-- 소개: 자사제공 심리케어 상담을 받아볼 수 있는 웹앱 서비스
+- 소개: 자사제공 심리케어 상담을 받아볼 수 있는 웹앱
 - 기간: 2017.11 ~ 2017.12
 - 사용기술: Java, WebView
 
 ### [핼스앤라이프](https://play.google.com/store/apps/details?id=com.compa.healthi)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
-- 소개: 자사에서 제공하는 헬스관련 미디어 소식을 모아볼 수 있는 웹앱 서비스
+- 소개: 자사에서 제공하는 헬스관련 미디어 소식을 모아볼 수 있는 웹앱
 - 기간: 2017.11 ~ 2017.12
 - 사용기술: Java, WebView, SQLite
 
