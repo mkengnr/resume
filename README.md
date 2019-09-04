@@ -92,38 +92,42 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 - 정보처리산업기사 (2018.11)
 - 네트워크관리사2급 (2019.07)
 
+<style>
+img[alt=project-icon]{
+	width: 100px;
+}
+</style>
 
 ## 프로젝트 이력
 ### [유니블루](https://uniblue.kr)
-![프로젝트이미지](./images/project/uniblue_ic.jpg){: width="100"}
+![project-icon](https://github.com/Kyu5787/RESUME/raw/master/images/project/uniblue_ic.jpg)
 - 소개: 여행사 B2B 플랫폼 웹 서비스
 - 기간: 2019.01 ~ 2019.06
 - 사용기술: Java, SpringBoot, JPA, MySQL, Thymeleaf, AWS...Etc
 
 ### [우리아이 하트팔레트](https://play.google.com/store/apps/details?id=com.compa.ikhp)
-![프로젝트이미지](./images/project/ikhp_ic.png){: width="100"}
+![project-icon](https://github.com/Kyu5787/RESUME/raw/master/images/project/ikhp_ic.png)
 - 소개: 대표 육아일기 앱
 - 기간: 2018.05 ~ 2018.10
 - 사용기술: Java, MVP, FCM, Fabric, Retrofit2, OkHttp3, Glide...Etc
 
 ### [우리아이 뉴스](https://play.google.com/store/apps/details?id=com.compa.ikn)
-![프로젝트이미지](./images/project/ikn_ic.png){: width="100"}
+![project-icon](https://github.com/Kyu5787/RESUME/raw/master/images/project/ikn_ic.png)
 - 소개: 육아관련 정보를 모아볼 수 있는 웹앱
 - 기간: 2018.03 ~ 2018.04
 - 사용기술: Java, WebView, SQLite
 
 ### [굿헬스케어](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
-![프로젝트이미지](./images/project/eap_ic.png){: width="100"}
+![project-icon](https://github.com/Kyu5787/RESUME/raw/master/images/project/eap_ic.png)
 - 소개: 자사제공 심리케어 상담을 받아볼 수 있는 웹앱 서비스
 - 기간: 2017.11 ~ 2017.12
 - 사용기술: Java, WebView
 
 ### [핼스앤라이프](https://play.google.com/store/apps/details?id=com.compa.healthi)
-![프로젝트이미지](./images/project/health_and_life_ic.png){: width="100"}
+![project-icon](https://github.com/Kyu5787/RESUME/raw/master/images/project/health_and_life_ic.png)
 - 소개: 자사에서 제공하는 헬스관련 미디어 소식을 모아볼 수 있는 웹앱 서비스
 - 기간: 2017.11 ~ 2017.12
 - 사용기술: Java, WebView, SQLite
-
 
 
 
