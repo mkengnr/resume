@@ -62,8 +62,8 @@
 
 
 ## 회사경력
-- [미디어그룹 COMPA](http://www.compa.kr/) (2017.08 ~ 2018.11)
 - [YOUR PARTNERS](http://yourptns.com/) (2018.12 ~ 2019.06)
+- [미디어그룹 COMPA](http://www.compa.kr/) (2017.08 ~ 2018.11)
 
 
 ## 학력
@@ -99,7 +99,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 ## 프로젝트 이력
 ### [유니블루](https://uniblue.kr)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/uniblue_ic.jpg' width='100'/><br />
-- 소개: 여행사와 랜드사를 간편하게 연결해주는 B2B 플랫폼 웹 서비스
+- 소개: 소규모 여행사와 소규모 랜드사를 간편하게 연결해주어 소비자에게 합리적인 가격혜택이 돌아갈 수 있도록 하는 B2B 플랫폼 웹 서비스
 - 사용기술: Java, SpringBoot, JPA, MySQL, Thymeleaf, AWS...Etc
 - 기간: 2019.01 ~ 2019.06
 - 담당: 웹/서버 개발
@@ -110,7 +110,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 
 ### [우리아이 하트팔레트](https://play.google.com/store/apps/details?id=com.compa.ikhp)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/ikhp_ic.png' width='100'/><br />
-- 소개: 대표 육아일기 네이티브 앱
+- 소개: 아이의 각종 건강체크, 성장일기 등등 아이와 관련된 모든 유용한 서비스를 제공해주는 네이티브 앱
 - 사용기술: Java, MVP, FCM, Fabric, Retrofit2, OkHttp3, Glide...Etc
 - 기간: 2018.05 ~ 2018.10
 - 담당: 안드로이드 앱 개발
@@ -122,7 +122,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 
 ### [우리아이 뉴스](https://play.google.com/store/apps/details?id=com.compa.ikn)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/ikn_ic.png' width='100'/><br />
-- 소개: 육아관련 정보를 모아볼 수 있는 웹앱
+- 소개: 육아뉴스 정보를 모아볼 수 있는 웹앱
 - 사용기술: Java, WebView, SQLite
 - 기간: 2018.03 ~ 2018.04
 - 담당: 안드로이드 앱 개발
@@ -135,7 +135,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 
 ### [굿헬스케어](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/eap_ic.png' width='100'/><br />
-- 소개: 자사제공 심리케어 상담을 받아볼 수 있는 웹앱
+- 소개: 자사 제공 심리케어 상담을 받아볼 수 있는 웹앱
 - 사용기술: Java, WebView
 - 기간: 2017.11 ~ 2017.12
 - 프로젝트 팀: 총 인원 5명
