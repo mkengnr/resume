@@ -116,7 +116,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 - 프로젝트 팀: 총 인원 3명
 	- 기획자 1명
 	- 디자이너 1명
-	- 웹/서버 개발자 1명
+	- 서버/안드로이드 개발자 1명
 
 ### [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/ikhp_ic.png' width='100'/><br />
