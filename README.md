@@ -101,7 +101,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 <img src='https://github.com/Kyu5787/RESUME/raw/master/images/project/uniblue_ic.jpg' width='100'/><br />
 - 소개: 소규모 여행사와 소규모 랜드사를 간편하게 연결해주어 소비자에게 합리적인 가격혜택이 돌아갈 수 있도록 하는 B2B 플랫폼 웹 서비스
 - 사용기술: Java, SpringBoot, JPA, MySQL, Thymeleaf, AWS...Etc
-- 기간: 2019.01 ~ 2019.06
+- 기간: 2018.12 ~ 2019.05
 - 담당: 웹/서버 개발
 - 프로젝트 팀: 총 인원 3명
 	- 기획자 1명
@@ -111,7 +111,7 @@ Java Framework 전문가 양성과정 (2017.01 ~ 06)
 ###  유니블루 앱(미출시)
 - 소개: 유니블루 웹 서비스를 안드로이드 네이티앱으로 출시하려고 했던 프로젝트
 - 사용기술: Kotlin, MVP, FCM, Fabric, Retrofit2, OkHttp3, Glide...Etc
-- 기간: 2019.06 ~
+- 기간: 2019.05 ~
 - 담당: 서버/안드로이드 개발
 - 프로젝트 팀: 총 인원 3명
 	- 기획자 1명
