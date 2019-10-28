@@ -39,6 +39,7 @@
 - Linux (Ubuntu)
 - Nginx
 - Travis CI
+- RESTful API
 
 ### Database
 - MySQL
@@ -47,11 +48,9 @@
 - PL / SQL
 
 ### Etc
-- Git/Github
-- RESTful API
+- Git / Github / Git-Flow / GitKraken
 - eXERD, StarUML
 - IntelliJ / Android Studio / Eclipse
-
 
 ## TODO
 **새로운 것**을 배운다는 것은 언제나 즐거운 일 입니다. <br />
@@ -61,6 +60,7 @@
 
 
 ## 회사경력
+- [캐시워크](https://www.cashwalk.co/) (2019.10 ~ 현재)
 - [YOUR PARTNERS](http://yourptns.com/) (2018.12 ~ 2019.06)
 - [미디어그룹 COMPA](http://www.compa.kr/) (2017.08 ~ 2018.11)
 
@@ -77,7 +77,7 @@
 	- 전기, 전자 공학
 	- 기계공학
 	- PLC 프로그래밍
-	- C언어기초
+	- C 언어기초
 
 - 마산공업고등학교 전자기계과 졸업 (2007.03 ~ 2010.02)
 
