@@ -1,6 +1,3 @@
-* Kramdown table of contents
-{:toc .toc}
-
 # 소개
 ![프로필이미지](https://github.com/jonygwak/resume/raw/master/images/profile/resume_profile2.jpg)
 - 이름: 곽성규
