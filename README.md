@@ -58,9 +58,9 @@
 
 
 # 경력
-## [캐시워크](https://www.cashwalk.co/) (2019.10 ~ 현재)
+## [Cashwalk](https://www.cashwalk.co/) (2019.10 ~ 현재)
 #### [Cashwalk-US]()
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_uc_ic.png' width='100'/><br />
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100'/><br />
 - 소개: 국내 캐시워크 미국 버전 프로젝트(출시예정)
 - 사용기술: Kotlin, MVP, Fabric, Retrofit2, OkHttp3, Glide... Etc
 - 기간: 2019.10 ~ 현재
