@@ -114,7 +114,7 @@
 	- 안드로이드 앱 개발자 1명
 
 #### [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_app_ic.png' width='100'/><br />
 - 소개: 자사 제공 심리케어 상담을 받아볼 수 있는 웹앱
 - 사용기술: Java, WebView
 - 기간: 2017.11 ~ 2017.12
