@@ -17,6 +17,7 @@
 - Java
 - RxJava2, RxKotlin
 - MVP, MVVM
+- Koin
 - SQLite, Room
 - Retrofit2 / OkHttp3 / Gson
 - Glide / Picasso
