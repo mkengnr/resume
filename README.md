@@ -3,7 +3,6 @@
 - 이름: 곽성규
 - 지역: 서울
 - 이메일: gsk5787@gmail.com
-- 블로그: [https://jonygwak.github.io](https://jonygwak.github.io)
 - 취미: 카페코딩, 교보문고 책탐방, 넷플릭스
 
 뒤늦게 코딩의 재미에 빠져 프로그래밍이라는 것을 시작하게 되었고, <br />
