@@ -1,4 +1,4 @@
-# 소개
+# Android Developer
 - 이름: 곽성규
 - 지역: 서울
 - 이메일: gsk5787@gmail.com
@@ -15,12 +15,15 @@
 ## Android
 - Kotlin
 - Java
-- MVP Pattern
-- SQLite
+- RxJava2, RxKotlin
+- MVP, MVVM
+- SQLite, Room
 - Retrofit2 / OkHttp3 / Gson
 - Glide / Picasso
 - FCM
 - Fabric
+- OAuth2 Login API
+    - Google, FaceBook, Naver, Kakao
 
 ## Back-End
 클라이언트에 필요한 RESTful API 를 직접 테스트/구현 할 수 있는 백엔드 스킬을 가지고 있습니다. <br />
@@ -51,8 +54,6 @@
 # TODO
 **새로운 것**을 배운다는 것은 언제나 즐거운 일 입니다. <br />
 주로 책의 커리큘럼으로 선행학습 후 토이프로젝트를 통해 기술을 익히는 것을 좋아합니다. <br />
-현재는 아래 것들을 익히고 있습니다.
-- MVVM, AAC
 
 
 # 경력
