@@ -69,9 +69,9 @@
 담당 프로젝트 
 <br>
 <br>
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' />
-
 [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' />
 <br>
 <br>
 
