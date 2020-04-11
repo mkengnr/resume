@@ -65,8 +65,9 @@
 <br>
 
 # 경력
-#### 2019.10 ~ 현재 - [캐시워크(주)](https://www.cashwalk.co/)
+## 2019.10 ~ 현재 - [캐시워크(주)](https://www.cashwalk.co/)
 담당 프로젝트 
+<br>
 <br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' />
 
@@ -74,7 +75,7 @@
 <br>
 <br>
 
-#### 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
+## 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
 담당 프로젝트
 <br>
 [uniblue webservice](https://uniblue.kr) (현재 서비스 중단)
@@ -85,7 +86,7 @@ uniblue android app (미출시)
 <br>
 <br>
 
-#### 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
+## 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
 담당 프로젝트
 <br>
 [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
