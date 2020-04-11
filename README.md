@@ -68,20 +68,18 @@
 #### 2019.10 ~ 현재 - [캐시워크(주)](https://www.cashwalk.co/)
 담당 프로젝트 
 <br>
-1. [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
-  <img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' onclick="javascript: location.href='https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk'"/>
+[Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' />
 <br>
 <br>
 
 #### 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
 담당 프로젝트
 <br>
-1. [uniblue webservice](https://uniblue.kr)(현재 서비스 중단)
-<br>
+[uniblue webservice](https://uniblue.kr) (현재 서비스 중단)
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
 <br>
-<br>
-2. [유니블루 앱(미출시)]()
+uniblue android app (미출시)
 
 <br>
 <br>
@@ -89,23 +87,16 @@
 #### 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
 담당 프로젝트
 <br>
-1. [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
-<br>
+[우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikhp_ic.png' width='100'/>
 <br>
-<br>
-2. [우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
-<br>
+[우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikn_ic.png' width='100'/>
 <br>
-<br>
-3. [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
-<br>
+[굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
 <br>
-<br>
-4. [핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
-<br>
+[핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
 
 <br>
