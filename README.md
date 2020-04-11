@@ -14,7 +14,7 @@
 <br>
 
 # 주요 사용기술
-## Android
+#### Android
 - Kotlin
 - Java
 - RxJava2, RxKotlin
@@ -28,7 +28,7 @@
 - OAuth2 Login API
     - Google, FaceBook, Naver, Kakao
 
-## Back-End
+#### Back-End
 클라이언트에 필요한 RESTful API 를 직접 테스트/구현 할 수 있는 백엔드 스킬을 가지고 있습니다. <br />
 필요에 따라 Server Render 를 통해 웹 개발을 할 수 있습니다.
 - Java
@@ -43,13 +43,13 @@
 - Travis CI
 - RESTful API
 
-## Database
+#### Database
 - MySQL
 - Redis
 - H2 database
 - PL / SQL
 
-## Etc
+#### Etc
 - Git / Github / Git-Flow / GitKraken
 - eXERD, StarUML
 - IntelliJ / Android Studio / Eclipse
@@ -65,17 +65,15 @@
 <br>
 
 # 경력
-## 2019.10 ~ 현재 - [캐시워크(주)](https://www.cashwalk.co/)
+#### 2019.10 ~ 현재 - [캐시워크(주)](https://www.cashwalk.co/)
 담당 프로젝트 
 <br>
 1. [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
-<br>
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100'/>
-
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' onclick="javascript: location.href='https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk'"/>
 <br>
 <br>
 
-## 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
+#### 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
 담당 프로젝트
 <br>
 1. [uniblue webservice](https://uniblue.kr)(현재 서비스 중단)
@@ -83,12 +81,12 @@
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
 <br>
 <br>
-2. 유니블루 앱(미출시)
+2. [유니블루 앱(미출시)]()
 
 <br>
 <br>
 
-## 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
+#### 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
 담당 프로젝트
 <br>
 1. [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
