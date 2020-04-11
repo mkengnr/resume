@@ -58,28 +58,51 @@
 
 
 # 경력
-## [Cashwalk](https://www.cashwalk.co/) (2019.10 ~ 현재)
-#### [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100'/><br />
+<br>
 
-## [YOUR PARTNERS](http://yourptns.com/) (2018.12 ~ 2019.06)
-#### [유니블루 웹서비스](https://uniblue.kr)(현재 서비스 중단)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/><br />
+## 2019.10 ~ 현재 
+[Cashwalk](https://www.cashwalk.co/)
 
-#### 유니블루 앱(미출시)
+- 담당 프로젝트
 
-## [미디어그룹 COMPA](http://www.compa.kr/) (2017.08 ~ 2018.11)
-#### [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/ikhp_ic.png' width='100'/><br />
+> <img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100'/><br />
+> [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
 
-#### [우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/ikn_ic.png' width='100'/><br />
+<br>
+<br>
 
-#### [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
+## 2018.12 ~ 2019.06
+[YOUR PARTNERS](http://yourptns.com/)
 
-#### [핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
-<img src='https://github.com/jonygwak/resume/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
+- 담당 프로젝트
+
+> <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/><br />
+> [유니블루 웹서비스](https://uniblue.kr)(현재 서비스 중단)
+
+<br>
+
+> 유니블루 앱(미출시)
+
+
+## 2017.08 ~ 2018.11
+[미디어그룹 COMPA](http://www.compa.kr/)
+
+- 담당 프로젝트
+
+> <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikhp_ic.png' width='100'/><br />
+> [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
+
+
+> <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikn_ic.png' width='100'/><br />
+> [우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
+
+
+> <img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
+> [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
+
+
+> <img src='https://github.com/jonygwak/resume/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
+> [핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
 
 
 # 학력
