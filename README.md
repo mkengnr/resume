@@ -78,7 +78,9 @@
 ## 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
 담당 프로젝트
 <br>
+<br>
 [uniblue webservice](https://uniblue.kr) (현재 서비스 중단)
+<br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
 <br>
 uniblue android app (미출시)
@@ -89,16 +91,21 @@ uniblue android app (미출시)
 ## 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
 담당 프로젝트
 <br>
+<br>
 [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
+<br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikhp_ic.png' width='100'/>
 <br>
 [우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
+<br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikn_ic.png' width='100'/>
 <br>
 [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
+<br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
 <br>
 [핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
+<br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
 
 <br>
