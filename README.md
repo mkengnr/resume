@@ -73,7 +73,10 @@
 <br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' />
 <br>
+- 프로젝트 생성 부터 출시 까지 참여
 <br>
+<br>
+
 
 ## 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
 담당 프로젝트
@@ -82,6 +85,7 @@
 [uniblue webservice](https://uniblue.kr) (현재 서비스 중단)
 <br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
+<br>
 <br>
 uniblue android app (미출시)
 
