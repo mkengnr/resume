@@ -10,6 +10,8 @@
 **코딩을 한다는 것은 일하는 것이 아닌 노는 것** 이라는 생각으로 <br />
 지금까지 개발자로써의 삶을 살아가고 있습니다.
 
+<br>
+<br>
 
 # 주요 사용기술
 ## Android
@@ -52,58 +54,64 @@
 - eXERD, StarUML
 - IntelliJ / Android Studio / Eclipse
 
+<br>
+<br>
+
 # TODO
 **새로운 것**을 배운다는 것은 언제나 즐거운 일 입니다. <br />
 주로 책의 커리큘럼으로 선행학습 후 토이프로젝트를 통해 기술을 익히는 것을 좋아합니다. <br />
 
+<br>
+<br>
 
 # 경력
+## 2019.10 ~ 현재 - [캐시워크(주)](https://www.cashwalk.co/)
+담당 프로젝트 
 <br>
-
-## 2019.10 ~ 현재 
-[Cashwalk](https://www.cashwalk.co/)
-
-- 담당 프로젝트
-
-> <img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100'/><br />
-> [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
+1. [Cashwalk-US](https://play.google.com/store/apps/details?id=com.cashwalklabs.cashwalk)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100'/>
 
 <br>
 <br>
 
-## 2018.12 ~ 2019.06
-[YOUR PARTNERS](http://yourptns.com/)
-
-- 담당 프로젝트
-
-> <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/><br />
-> [유니블루 웹서비스](https://uniblue.kr)(현재 서비스 중단)
+## 2018.12 ~ 2019.06 - [유어파트너스(주)](http://yourptns.com/)
+담당 프로젝트
+<br>
+1. [uniblue webservice](https://uniblue.kr)(현재 서비스 중단)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
+<br>
+<br>
+2. 유니블루 앱(미출시)
 
 <br>
+<br>
 
-> 유니블루 앱(미출시)
+## 2017.08 ~ 2018.11 - [미디어그룹 COMPA](http://www.compa.kr/)
+담당 프로젝트
+<br>
+1. [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/ikhp_ic.png' width='100'/>
+<br>
+<br>
+2. [우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/ikn_ic.png' width='100'/>
+<br>
+<br>
+3. [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
+<br>
+<br>
+4. [핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
 
-
-## 2017.08 ~ 2018.11
-[미디어그룹 COMPA](http://www.compa.kr/)
-
-- 담당 프로젝트
-
-> <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikhp_ic.png' width='100'/><br />
-> [우리아이 하트팔레트 앱](https://play.google.com/store/apps/details?id=com.compa.ikhp)
-
-
-> <img src='https://github.com/jonygwak/resume/raw/master/images/project/ikn_ic.png' width='100'/><br />
-> [우리아이 뉴스 앱](https://play.google.com/store/apps/details?id=com.compa.ikn)
-
-
-> <img src='https://github.com/jonygwak/resume/raw/master/images/project/eap_ic.png' width='100'/><br />
-> [굿헬스케어 앱](https://play.google.com/store/apps/details?id=com.goodhealth.ieap)
-
-
-> <img src='https://github.com/jonygwak/resume/raw/master/images/project/health_and_life_ic.png' width='100'/><br />
-> [핼스앤라이프 앱](https://play.google.com/store/apps/details?id=com.compa.healthi)
-
+<br>
+<br>
 
 # 학력
 - 평생진흥교육원 컴퓨터공학 (2018.03 ~ 현재)
@@ -120,6 +128,9 @@
 	- C 언어기초
 
 - 마산공업고등학교 전자기계과 졸업 (2007.03 ~ 2010.02)
+
+<br>
+<br>
 
 # 보유자격증
 - 정보처리산업기사 (2018.11)
