@@ -73,7 +73,8 @@
 <br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/cashwalk_us_ic.png' width='100' />
 <br>
-- 프로젝트 생성 부터 출시 까지 참여
+- 프로젝트 생성부터 출시까지 참여
+- 지속적 운영 및 배포 주요 담당
 <br>
 <br>
 
@@ -86,9 +87,12 @@
 <br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
 <br>
+- 
+<br>
 <br>
 uniblue android app (미출시)
-
+<br>
+<img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
 <br>
 <br>
 
@@ -122,6 +126,7 @@ uniblue android app (미출시)
 - 평생진흥교육원 컴퓨터공학 (2018.03 ~ 현재)
 	- 자료구조
 	- 알고리즘
+	- 데이터베이스
 	- 네트워크
 	- 운영체제
 	- 소프트웨어공학
