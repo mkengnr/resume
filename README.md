@@ -87,8 +87,6 @@
 <br>
 <img src='https://github.com/jonygwak/resume/raw/master/images/project/uniblue_ic.jpg' width='100'/>
 <br>
-- 
-<br>
 <br>
 uniblue android app (미출시)
 <br>
